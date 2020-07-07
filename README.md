@@ -1,2 +1,5 @@
-pip install git+https://github.com/vispy/vispy.git
-
+{
+  "load_extensions": {
+    "vispy/extension": true
+  }
+}
